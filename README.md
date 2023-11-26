@@ -39,3 +39,4 @@ This project is licensed under the GNU General Public License v3.0 - see the LIC
 
 B32Mtf originated from a simple idea and evolved with the assistance of artificial intelligence, marking a notable milestone in the field of information alchemy. It serves as a testament to the collaborative efforts between human curiosity and AI ingenuity.
 
+Public Forum URL https://theoddduckdin.freeforums.net/thread/37/base32-move-front
